@@ -1,6 +1,6 @@
  # Ésta es una estructura de directorio de proyecto general para la publicacion de resultados de los proyectos pilotos.
  
- A continuacion se define una estrcutura para documentar este primer README, el cual es como introductorio sobre el repositorio
+ A continuacion se define una estructura para documentar este primer README, el cual es como introductorio sobre el repositorio
  
 Qué es El Proyecto?
 
