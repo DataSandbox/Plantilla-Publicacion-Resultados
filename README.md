@@ -12,10 +12,10 @@ En esta area se especifica los objetivos y el alcance del proyecto.
 
 # Contenido del repositorio
 
-En esta parte se especifica la estructura de carpetas del repositorio y una descripcion breve de cadad una a manera de indice.
+En esta parte se especifica la estructura de carpetas del repositorio y una descripción breve de cada una a manera de índice.
 
-1. App                   carpeta para el dodigo del proyecto
-2. Datos de Ejemplo      Carpeta donde se alojan ejemplos de los datos, tanto lo iniciales(fuentes de Datos), como los finales o los obtenidos( porcesados)
+1. App                   carpeta para el Código del proyecto
+2. Datos de Ejemplo      Carpeta donde se alojan ejemplos de los datos, tanto lo iniciales (fuentes de Datos), como los finales o los obtenidos (procesados)
 3. Documentación         Carpeta que contiene toda la documentación del Proyecto.
 
 
