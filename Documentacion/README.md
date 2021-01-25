@@ -1,10 +1,10 @@
-# Folder for hosting all documents for a Data Science Project
+# Carpeta para alojar todos los documentos de un proyecto
 
-Documents will contain information about the following 
+Los documentos contendrán información sobre lo siguiente
 
-1. System architecture
-2. Data dictionaries
-3. Reports related to data understanding, modeling
-4. Project management and planning docs
-5. Information obtained from a business owner or client about the project
-6. Docs and presentations prepared to share information about the project 
+1. Arquitectura del sistema
+2. Diccionario de Datos
+3. Informes relacionados con la comprensión de datos, modelado
+4. Documentos de planificación y gestión de proyectos
+5. Información obtenida de usuarios o clientes sobre el proyecto
+6. Documentos y presentaciones preparados para compartir información sobre el proyecto 
