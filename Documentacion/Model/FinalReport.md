@@ -1,3 +1,5 @@
+<img src="/App/logdat.JPG" alt="My cool logo"/>
+
 # Informe final del modelo
 _Informe que describe el modelo final que se entregará, generalmente compuesto por uno o más de los modelos construidos durante la vida del proyecto_
 
@@ -27,8 +29,7 @@ _Informe que describe el modelo final que se entregará, generalmente compuesto 
      * Experimento de entrenamiento
      * Flujo de trabajo de puntuación
 * ¿Qué aprendices se utilizaron?
-* Hiperparámetros del alumno
 
 ## Resultados
-* Gráficos ROC / Lift, AUC, R ^ 2, MAPE según corresponda
+* Gráficos
 * Gráficos de rendimiento para barridos de parámetros, si corresponde
