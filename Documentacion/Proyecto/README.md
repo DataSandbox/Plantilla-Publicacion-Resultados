@@ -1,3 +1,6 @@
+<img src="/App/logdat.JPG" alt="My cool logo"/>
+
+
 # Carpeta para alojar documentos e informes de proyectos para un proyecto de ciencia de datos
 
 Estos pueden ser:
