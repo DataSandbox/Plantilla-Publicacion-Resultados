@@ -1,4 +1,5 @@
-![DataLOGO](App/logdat.JPG)
+<img src="/App/logdat.JPG" alt="My cool logo"/>
+
  
 # Carpeta para alojar todos los documentos de un proyecto
 
