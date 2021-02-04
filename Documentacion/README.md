@@ -1,4 +1,4 @@
- ![DataLOGO](App/logdat.JPG)
+![DataLOGO](App/logdat.JPG)
  
 # Carpeta para alojar todos los documentos de un proyecto
 
