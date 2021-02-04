@@ -1,3 +1,5 @@
+<img src="/App/logdat.JPG" alt="My cool logo"/>
+
 # Carpeta Donde se aloja el codigo del proyecto
 
 Esta carpeta aloja todo el código para un proyecto de ciencia de datos. Tiene tres subcarpetas, 
