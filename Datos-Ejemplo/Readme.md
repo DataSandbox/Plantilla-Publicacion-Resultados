@@ -10,5 +10,6 @@ En este espacio se deben plasmar, Esos Datos y fuentes de datos que fueron utili
 para el modelo, como el resultado de del procesamiento de esos datos, por eso se encuentra divido en dos
 partes:
 
-- Modelo
-- Resultados
+- Para Modelo
+   
+- Procesados
