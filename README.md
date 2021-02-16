@@ -4,11 +4,11 @@
  
  A continuacion se define una estructura para documentar este primer README, el cual es introductorio sobre el repositorio
  
-# Qué es El Proyecto?
+# ¿Qué es el proyecto?
 
 En esta area va una descripción breve del proyecto, sus caracteristicas y funcionamiento. 
 
-# Qué queremos en este proyecto?
+# ¿Qué queremos en este proyecto?
 
 En esta area se especifica los objetivos y el alcance del proyecto.
 
