@@ -6,4 +6,9 @@ su captura, gestión, procesamiento o análisis mediante tecnologías y herramie
 tales como bases de datos relacionales y estadísticas convencionales o paquetes de visualización,
 dentro del tiempo necesario para que sean útiles.
 
-En este espacio se deben plasmar, Esos Datos y fuentes de datos que fueron utilizados.
+En este espacio se deben plasmar, Esos Datos y fuentes de datos que fueron utilizados, tanto 
+para el modelo, como el resultado de del procesamiento de esos datos, por eso se encuentra divido en dos
+partes:
+
+- Modelo
+- Resultados
